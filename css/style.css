@@ -1,8 +1,12 @@
 main {
   margin-top: 130px;
 }
+
 .course-card {
   margin: 50px 0;
+}
+.modal-button{
+  margin-top: 30px;
 }
 .footer-body {
   background: #000000;
